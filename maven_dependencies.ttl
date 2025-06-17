@@ -1,0 +1,650 @@
+@prefix schema: <https://schema.org/> .
+
+<urn:maven:org_apache_logging_log4j_log4j-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.logging.log4j:log4j-core" ;
+    schema:version "2.20.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.logging.log4j.core [auto]
+" .
+
+<urn:maven:org_apache_logging_log4j_log4j-api> a schema:SoftwareApplication ;
+    schema:name "org.apache.logging.log4j:log4j-api" ;
+    schema:version "2.20.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.logging.log4j
+" .
+
+<urn:maven:org_apache_logging_log4j_log4j-1.2-api> a schema:SoftwareApplication ;
+    schema:name "org.apache.logging.log4j:log4j-1.2-api" ;
+    schema:version "2.20.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.log4j [auto]
+" .
+
+<urn:maven:org_apache_logging_log4j_log4j-layout-template-json> a schema:SoftwareApplication ;
+    schema:name "org.apache.logging.log4j:log4j-layout-template-json" ;
+    schema:version "2.20.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module log4j.layout.template.json (auto)
+" .
+
+<urn:maven:com_epimorphics_appbase> a schema:SoftwareApplication ;
+    schema:name "com.epimorphics:appbase" ;
+    schema:version "3.1.4" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module appbase (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-text> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-text" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.text [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-cmds> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-cmds" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.cmds [auto]
+" .
+
+<urn:maven:commons-codec_commons-codec> a schema:SoftwareApplication ;
+    schema:name "commons-codec:commons-codec" ;
+    schema:version "1.11" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.commons.codec [auto]
+" .
+
+<urn:maven:org_apache_lucene_lucene-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-core" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.core (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-analyzers-common> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-analyzers-common" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.analyzers.common (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-queryparser> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-queryparser" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.queryparser (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-queries> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-queries" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.queries (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-sandbox> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-sandbox" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.sandbox (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-highlighter> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-highlighter" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.highlighter (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-join> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-join" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.join (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-memory> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-memory" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.memory (auto)
+" .
+
+<urn:maven:commons-collections_commons-collections> a schema:SoftwareApplication ;
+    schema:name "commons-collections:commons-collections" ;
+    schema:version "3.2.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.collections (auto)
+" .
+
+<urn:maven:org_apache_velocity_velocity> a schema:SoftwareApplication ;
+    schema:name "org.apache.velocity:velocity" ;
+    schema:version "1.7" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module velocity (auto)
+" .
+
+<urn:maven:org_yaml_snakeyaml> a schema:SoftwareApplication ;
+    schema:name "org.yaml:snakeyaml" ;
+    schema:version "2.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.yaml.snakeyaml
+" .
+
+<urn:maven:commons-beanutils_commons-beanutils> a schema:SoftwareApplication ;
+    schema:name "commons-beanutils:commons-beanutils" ;
+    schema:version "1.9.4" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.beanutils (auto)
+" .
+
+<urn:maven:commons-logging_commons-logging> a schema:SoftwareApplication ;
+    schema:name "commons-logging:commons-logging" ;
+    schema:version "1.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.logging (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_core_jersey-client> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.core:jersey-client" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.client (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_hk2-api> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2:hk2-api" ;
+    schema:version "2.4.0-b31" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hk2.api (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_hk2-utils> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2:hk2-utils" ;
+    schema:version "2.4.0-b31" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hk2.utils (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_external_aopalliance-repackaged> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2.external:aopalliance-repackaged" ;
+    schema:version "2.4.0-b31" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module aopalliance.repackaged (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_external_javax.inject> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2.external:javax.inject" ;
+    schema:version "2.4.0-b31" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module javax.inject (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_hk2-locator> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2:hk2-locator" ;
+    schema:version "2.4.0-b31" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hk2.locator (auto)
+" .
+
+<urn:maven:org_javassist_javassist> a schema:SoftwareApplication ;
+    schema:name "org.javassist:javassist" ;
+    schema:version "3.18.1-GA" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module javassist (auto)
+" .
+
+<urn:maven:com_epimorphics_lib> a schema:SoftwareApplication ;
+    schema:name "com.epimorphics:lib" ;
+    schema:version "3.1.3" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lib (auto)
+" .
+
+<urn:maven:org_apache_jena_apache-jena-libs> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:apache-jena-libs" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile
+" .
+
+<urn:maven:org_apache_jena_jena-tdb2> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-tdb2" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.tdb2 [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-dboe-trans-data> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-dboe-trans-data" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.dboe [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-dboe-transaction> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-dboe-transaction" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.dboe [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-dboe-base> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-dboe-base" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.dboe [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-dboe-index> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-dboe-index" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.dboe [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-rdfconnection> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-rdfconnection" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.rdfconnection [auto]
+" .
+
+<urn:maven:org_glassfish_jersey_containers_jersey-container-servlet> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.containers:jersey-container-servlet" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.container.servlet (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_containers_jersey-container-servlet-core> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.containers:jersey-container-servlet-core" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.container.servlet.core (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_core_jersey-server> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.core:jersey-server" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.server (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_media_jersey-media-jaxb> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.media:jersey-media-jaxb" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.media.jaxb (auto)
+" .
+
+<urn:maven:javax_validation_validation-api> a schema:SoftwareApplication ;
+    schema:name "javax.validation:validation-api" ;
+    schema:version "1.1.0.Final" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module validation.api (auto)
+" .
+
+<urn:maven:net_sf_opencsv_opencsv> a schema:SoftwareApplication ;
+    schema:name "net.sf.opencsv:opencsv" ;
+    schema:version "2.3" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module opencsv (auto)
+" .
+
+<urn:maven:commons-lang_commons-lang> a schema:SoftwareApplication ;
+    schema:name "commons-lang:commons-lang" ;
+    schema:version "2.6" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.lang (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-querybuilder> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-querybuilder" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jena.querybuilder (auto)
+" .
+
+<urn:maven:org_slf4j_slf4j-api> a schema:SoftwareApplication ;
+    schema:name "org.slf4j:slf4j-api" ;
+    schema:version "1.7.25" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module slf4j.api (auto)
+" .
+
+<urn:maven:org_owasp_encoder_encoder> a schema:SoftwareApplication ;
+    schema:name "org.owasp.encoder:encoder" ;
+    schema:version "1.2.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module encoder (auto)
+" .
+
+<urn:maven:org_apache_httpcomponents_httpclient> a schema:SoftwareApplication ;
+    schema:name "org.apache.httpcomponents:httpclient" ;
+    schema:version "4.5" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module httpclient (auto)
+" .
+
+<urn:maven:org_apache_httpcomponents_httpcore> a schema:SoftwareApplication ;
+    schema:name "org.apache.httpcomponents:httpcore" ;
+    schema:version "4.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module httpcore (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_core_jersey-common> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.core:jersey-common" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.common (auto)
+" .
+
+<urn:maven:javax_annotation_javax.annotation-api> a schema:SoftwareApplication ;
+    schema:name "javax.annotation:javax.annotation-api" ;
+    schema:version "1.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module javax.annotation.api (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_bundles_repackaged_jersey-guava> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.bundles.repackaged:jersey-guava" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.guava (auto)
+" .
+
+<urn:maven:org_glassfish_hk2_osgi-resource-locator> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.hk2:osgi-resource-locator" ;
+    schema:version "1.0.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module osgi.resource.locator (auto)
+" .
+
+<urn:maven:javax_ws_rs_javax.ws.rs-api> a schema:SoftwareApplication ;
+    schema:name "javax.ws.rs:javax.ws.rs-api" ;
+    schema:version "2.0.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module javax.ws.rs.api (auto)
+" .
+
+<urn:maven:org_glassfish_jersey_media_jersey-media-multipart> a schema:SoftwareApplication ;
+    schema:name "org.glassfish.jersey.media:jersey-media-multipart" ;
+    schema:version "2.21" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jersey.media.multipart (auto)
+" .
+
+<urn:maven:org_jvnet_mimepull_mimepull> a schema:SoftwareApplication ;
+    schema:name "org.jvnet.mimepull:mimepull" ;
+    schema:version "1.9.6" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module mimepull (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-core" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.core (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-lang> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-lang" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.lang (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-cache> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-cache" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.cache (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-crypto-hash> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-crypto-hash" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.crypto.hash (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-crypto-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-crypto-core" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.crypto.core (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-crypto-cipher> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-crypto-cipher" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.crypto.cipher (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-config-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-config-core" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.config.core (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-config-ogdl> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-config-ogdl" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.config.ogdl (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-event> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-event" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.event (auto)
+" .
+
+<urn:maven:org_apache_shiro_shiro-web> a schema:SoftwareApplication ;
+    schema:name "org.apache.shiro:shiro-web" ;
+    schema:version "1.12.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module shiro.web (auto)
+" .
+
+<urn:maven:org_apache_derby_derby> a schema:SoftwareApplication ;
+    schema:name "org.apache.derby:derby" ;
+    schema:version "10.14.2.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module derby (auto)
+" .
+
+<urn:maven:org_fusesource_stompjms_stompjms-client> a schema:SoftwareApplication ;
+    schema:name "org.fusesource.stompjms:stompjms-client" ;
+    schema:version "1.19" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module stompjms.client (auto)
+" .
+
+<urn:maven:org_fusesource_hawtdispatch_hawtdispatch-transport> a schema:SoftwareApplication ;
+    schema:name "org.fusesource.hawtdispatch:hawtdispatch-transport" ;
+    schema:version "1.20" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hawtdispatch.transport (auto)
+" .
+
+<urn:maven:org_fusesource_hawtdispatch_hawtdispatch> a schema:SoftwareApplication ;
+    schema:name "org.fusesource.hawtdispatch:hawtdispatch" ;
+    schema:version "1.20" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hawtdispatch (auto)
+" .
+
+<urn:maven:org_fusesource_hawtbuf_hawtbuf> a schema:SoftwareApplication ;
+    schema:name "org.fusesource.hawtbuf:hawtbuf" ;
+    schema:version "1.9" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module hawtbuf (auto)
+" .
+
+<urn:maven:com_fasterxml_jackson_core_jackson-databind> a schema:SoftwareApplication ;
+    schema:name "com.fasterxml.jackson.core:jackson-databind" ;
+    schema:version "2.12.7.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module com.fasterxml.jackson.databind
+" .
+
+<urn:maven:com_fasterxml_jackson_core_jackson-annotations> a schema:SoftwareApplication ;
+    schema:name "com.fasterxml.jackson.core:jackson-annotations" ;
+    schema:version "2.12.7" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module com.fasterxml.jackson.annotation
+" .
+
+<urn:maven:com_fasterxml_jackson_core_jackson-core> a schema:SoftwareApplication ;
+    schema:name "com.fasterxml.jackson.core:jackson-core" ;
+    schema:version "2.12.7" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module com.fasterxml.jackson.core
+" .
+
+<urn:maven:javax_jms_javax.jms-api> a schema:SoftwareApplication ;
+    schema:name "javax.jms:javax.jms-api" ;
+    schema:version "2.0.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module javax.jms.api (auto)
+" .
+
+<urn:maven:org_apache_oltu_oauth2_org.apache.oltu.oauth2.client> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.oauth2:org.apache.oltu.oauth2.client" ;
+    schema:version "1.0.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.oauth2.client (auto)
+" .
+
+<urn:maven:org_apache_oltu_oauth2_org.apache.oltu.oauth2.common> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.oauth2:org.apache.oltu.oauth2.common" ;
+    schema:version "1.0.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.oauth2.common (auto)
+" .
+
+<urn:maven:org_json_json> a schema:SoftwareApplication ;
+    schema:name "org.json:json" ;
+    schema:version "20140107" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module json (auto)
+" .
+
+<urn:maven:org_apache_oltu_oauth2_org.apache.oltu.oauth2.jwt> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.oauth2:org.apache.oltu.oauth2.jwt" ;
+    schema:version "1.0.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.oauth2.jwt (auto)
+" .
+
+<urn:maven:org_apache_oltu_commons_org.apache.oltu.commons.encodedtoken> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.commons:org.apache.oltu.commons.encodedtoken" ;
+    schema:version "1.0.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.commons.encodedtoken (auto)
+" .
+
+<urn:maven:org_apache_oltu_commons_org.apache.oltu.commons.json> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.commons:org.apache.oltu.commons.json" ;
+    schema:version "1.0.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.commons.json (auto)
+" .
+
+<urn:maven:org_apache_oltu_oauth2_org.apache.oltu.oauth2.authzserver> a schema:SoftwareApplication ;
+    schema:name "org.apache.oltu.oauth2:org.apache.oltu.oauth2.authzserver" ;
+    schema:version "1.0.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.oltu.oauth2.authzserver (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-fuseki1> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-fuseki1" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.fuseki1 [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-arq> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-arq" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.arq [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-core> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-core" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.core [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-iri> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-iri" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.iri [auto]
+" .
+
+<urn:maven:commons-cli_commons-cli> a schema:SoftwareApplication ;
+    schema:name "commons-cli:commons-cli" ;
+    schema:version "1.4" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.cli (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-base> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-base" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.base [auto]
+" .
+
+<urn:maven:org_apache_commons_commons-csv> a schema:SoftwareApplication ;
+    schema:name "org.apache.commons:commons-csv" ;
+    schema:version "1.5" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.csv (auto)
+" .
+
+<urn:maven:org_apache_commons_commons-compress> a schema:SoftwareApplication ;
+    schema:name "org.apache.commons:commons-compress" ;
+    schema:version "1.17" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.commons.compress [auto]
+" .
+
+<urn:maven:com_github_andrewoma_dexx_collection> a schema:SoftwareApplication ;
+    schema:name "com.github.andrewoma.dexx:collection" ;
+    schema:version "0.7" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module collection (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-shaded-guava> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-shaded-guava" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.ext.com.google [auto]
+" .
+
+<urn:maven:com_github_jsonld-java_jsonld-java> a schema:SoftwareApplication ;
+    schema:name "com.github.jsonld-java:jsonld-java" ;
+    schema:version "0.12.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jsonld.java (auto)
+" .
+
+<urn:maven:org_apache_httpcomponents_httpclient-cache> a schema:SoftwareApplication ;
+    schema:name "org.apache.httpcomponents:httpclient-cache" ;
+    schema:version "4.5.5" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module httpclient.cache (auto)
+" .
+
+<urn:maven:org_apache_thrift_libthrift> a schema:SoftwareApplication ;
+    schema:name "org.apache.thrift:libthrift" ;
+    schema:version "0.10.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module libthrift (auto)
+" .
+
+<urn:maven:org_apache_commons_commons-lang3> a schema:SoftwareApplication ;
+    schema:name "org.apache.commons:commons-lang3" ;
+    schema:version "3.4" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.lang3 (auto)
+" .
+
+<urn:maven:org_apache_jena_jena-tdb> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-tdb" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.tdb [auto]
+" .
+
+<urn:maven:org_apache_jena_jena-spatial> a schema:SoftwareApplication ;
+    schema:name "org.apache.jena:jena-spatial" ;
+    schema:version "3.9.0" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module org.apache.jena.spatial [auto]
+" .
+
+<urn:maven:org_apache_lucene_lucene-spatial> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-spatial" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.spatial (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-spatial-extras> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-spatial-extras" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.spatial.extras (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-misc> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-misc" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.misc (auto)
+" .
+
+<urn:maven:org_apache_lucene_lucene-spatial3d> a schema:SoftwareApplication ;
+    schema:name "org.apache.lucene:lucene-spatial3d" ;
+    schema:version "6.4.1" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module lucene.spatial3d (auto)
+" .
+
+<urn:maven:org_locationtech_spatial4j_spatial4j> a schema:SoftwareApplication ;
+    schema:name "org.locationtech.spatial4j:spatial4j" ;
+    schema:version "0.6" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module spatial4j (auto)
+" .
+
+<urn:maven:commons-fileupload_commons-fileupload> a schema:SoftwareApplication ;
+    schema:name "commons-fileupload:commons-fileupload" ;
+    schema:version "1.3.3" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.fileupload (auto)
+" .
+
+<urn:maven:commons-io_commons-io> a schema:SoftwareApplication ;
+    schema:name "commons-io:commons-io" ;
+    schema:version "2.2" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module commons.io (auto)
+" .
+
+<urn:maven:org_eclipse_jetty_jetty-security> a schema:SoftwareApplication ;
+    schema:name "org.eclipse.jetty:jetty-security" ;
+    schema:version "8.1.22.v20160922" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jetty.security (auto)
+" .
+
+<urn:maven:org_eclipse_jetty_jetty-util> a schema:SoftwareApplication ;
+    schema:name "org.eclipse.jetty:jetty-util" ;
+    schema:version "8.1.22.v20160922" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jetty.util (auto)
+" .
+
+<urn:maven:org_slf4j_slf4j-log4j12> a schema:SoftwareApplication ;
+    schema:name "org.slf4j:slf4j-log4j12" ;
+    schema:version "1.7.25" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module slf4j.log4j12 (auto)
+" .
+
+<urn:maven:org_slf4j_jcl-over-slf4j> a schema:SoftwareApplication ;
+    schema:name "org.slf4j:jcl-over-slf4j" ;
+    schema:version "1.7.25" ;
+    schema:description "Maven dependency from pom.xml with scope compile -- module jcl.over.slf4j (auto)
+" .
+
